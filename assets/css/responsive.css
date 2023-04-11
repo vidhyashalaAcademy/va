@@ -1,0 +1,40 @@
+
+@media (max-width: 1400px){
+   
+}
+@media (max-width: 1200px){
+    
+}
+@media (max-width: 992px){
+ }
+@media (max-width:767px){
+
+    /* Header */
+    .navBottom {
+        margin-top: 78px;
+    }
+
+    .navbar-nav ul{
+        display: block !important;
+    }
+    /* Header */
+
+
+    .cust_features .row{
+        margin: 10px 0px 10px 0px;
+    }
+
+  
+}
+@media (max-width:480px){
+  
+
+
+}
+@media (min-width:768px){
+
+   
+  
+}
+
+
