@@ -149,6 +149,10 @@ body {
 	padding: 10px 15px 0 15px;
 }
 
+.UniqueStudyMaterial div{
+	font-weight: 900;
+}
+
 #highlights .card:hover {
 	box-shadow: 0 3px 35px -8px #aaa;
 	-webkit-transform: translate(0, -10px);
